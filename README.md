@@ -1,2 +1,12 @@
-# RFS_CC2652_CO2
-Zigbee climate sensor CO2/VOC CC2652P
+# Zigbee climate sensor CO2 CC2652P/PTVO
+
+<div align="center">
+<img width="80%" src="./images/RFS_CC2652_CO2_wiki.jpg">
+</div>
+
+---
+
+### Full documentation is published on [Wiki](https://github.com/DIYZi/RFS_CC2652_CO2/wiki)
+
+---
+
